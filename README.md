@@ -4,8 +4,6 @@
 
 # Quantum transport simulations of twisted bilayer graphene
 
-Published March 2025
-
 ## Research goals
 
 In this project, we implement quantum transport simulations of a tight-binding model of twisted bilayer graphene. In particular, we are interested in studying the relation between the energy-resolved conductance and the density of states of twisted bilayer graphene near the first magic angle $\theta_m \approx 1.05^\circ$. 
